@@ -1,7 +1,7 @@
 # Projeto: Palíndromo e Min Max
 
 <p align="center">
-  <img src="./img/project.gif" alt="PalindromoMinMax">
+  <img src="./img/Project.png" alt="PalindromoMinMax">
 </p>
 
 ## Introdução
